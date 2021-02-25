@@ -1,0 +1,19 @@
+/*  Categories:
+1 - Human or Animal
+2 - What they did
+3 - Who with
+4 - At what time
+5 - Where
+*/
+
+/*  Silly Words for Categories above:
+1 - Man, Woman, Cat, Dog, Rhino, Lion, Tortoise, Mouse, Pigeon, Crocodile
+2 - Flying a plane, Playing football for England, Singing in a Choir, Lounging on the Sofa, Cooking dinner, Walking along the beach, Watering the flowers, having an afternoon tea, Having a Spa Day, Scuba Diving
+3 - Lady next door, 
+4 - 
+5 - 
+*/
+
+/*  Basic look of Sentence
+The ${ 1 } was ${ 2 } with their best friend the ${ 3 }. This all happened at around ${ 4 } at ${ 5 }.
+*/
