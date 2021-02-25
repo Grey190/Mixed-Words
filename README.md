@@ -36,4 +36,4 @@ Show examples of usage:
 Project is: in progress...
 
 ## Contact
-Created by [@Grey190](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Grey190](https://github.com/Grey190)
