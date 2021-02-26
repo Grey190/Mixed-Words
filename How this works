@@ -15,5 +15,5 @@
 */
 
 /*  Basic look of Sentence
-The ${ 1 } was ${ 2 } with their best friend the ${ 3 }. This all happened at around ${ 4 } at ${ 5 }.
+The ${ who } was ${ what } with their best friend the ${ withWho }. This all happened at around ${ time } ${ where }.
 */
